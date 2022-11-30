@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>States and cities</title>
+            <h1>States and Cities</h1>
+            <ul>
+            <li>goa
+            <ol>
+            <li>Panaji</li>
+            <li>Mapusa</li>
+            <li>Vasco-da-gama</li>
+            <li>Margoa</li>
+            <li>Goa Velha</li>
+            </ol>
+            </li>
+            </ul>
+            <ul>
+            <li>Maharashtra
+            <ol>
+            <li>Pune</li>
+            <li>Nashik</li>
+            <li>Nagpur</li>
+            <li>Solapur</li>
+            <li>Mumbai</li>
+            </ol>
+            </li>
+            </ul>
+            <ul>
+            <li>Assam
+            <ol>
+            <li>Guwahati</li>
+            <li>Tezpur</li>
+            <li>Silchar</li>
+            <li>Dibrugarh</li>
+            <li>Dispur</li>
+            </ol>
+            </li>
+            </ul>
+            <ul>
+            <li>Himachal Pradesh
+            <ol>
+            <li>Mandi</li>
+            <li>Solan</li>
+            <li>Chamba</li>
+            <li>Bilaspur</li>
+            <li>Shimla</li>
+            </ol>
+            </li>
+            </ul>
+            <ul>
+            <li>Punjab
+            <ol>
+            <li>Amritsar</li>
+            <li>Jalndhar</li>
+            <li>Patiala</li>
+            <li>Ludhiana</li>
+            <Chandigarh</li>
+            </ol>
+            </li>
+            </ul>
+      </head>
+</html>
